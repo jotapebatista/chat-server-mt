@@ -4,7 +4,7 @@ This project was made by João Batista during his mid-2023 bootcamp @ < Academia
 
 ------------------------------------------------------------------------------------------------
 
-Multi Thread TPC Chat Server &amp; Client exercise made at &lt;A/C_>'s.
+Multi Thread TCP Chat Server exercise made at &lt;A/C_>'s.
 
 
 ------------------------------------------------------------------------------------------------
