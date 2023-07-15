@@ -28,7 +28,7 @@ Multi Thread TPC Chat Server &amp; Client exercise made at &lt;A/C_>'s.
                                                               
                      wwww.academiadecodigo.org                    
 
-      You can contact me @ valterdaniel.madeira@gmail.com !
+      You can contact me @ joao-oliveirabatista@hotmail.com !
 
 
 ------------------------------------------------------------------------------------------------
